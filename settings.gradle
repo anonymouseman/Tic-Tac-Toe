@@ -1,0 +1,3 @@
+rootProject.name = "kodilla-game"
+include 'Tic-Tac-Toe'
+
